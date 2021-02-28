@@ -2,7 +2,7 @@
 <p> The browser is a Electron APP that leaves a browser tab fixed (https://localhost:3000/) from yours tests. </p>
 
 # Page Example:
-![Page Example](https://github.com/AndersonPGS/webdevs/blob/main/example.png)
+![Page Example](https://github.com/AndersonPGS/webdevs/blob/main/example-image.png)
 
 ## 🎉 Install
 
